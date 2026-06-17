@@ -12,8 +12,8 @@ You need to provide a Robinhood access token to authenticate all requests in thi
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai). We take custom requests for new platforms or additional features for existing platforms. We also offer hosting and authentication services. If you have requests or want to work with us, reach out at richard@integuru.ai.
+This unofficial API is built by [Integuru](https://integuru.com).
 
-Here's a [complete list](https://github.com/Integuru-AI/APIs-by-Integuru) of unofficial APIs built by Integuru.ai.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
-This repo is intended to be used as a package in a larger project: https://github.com/Integuru-AI/Integrations
+See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
